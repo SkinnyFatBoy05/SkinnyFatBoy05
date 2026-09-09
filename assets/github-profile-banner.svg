@@ -39,7 +39,7 @@
 
   <rect x="70" y="248" width="365" height="42" rx="21" fill="#101d33" stroke="#5f8fe8" stroke-opacity="0.55" />
   <circle cx="94" cy="269" r="5" fill="#71e6a7" />
-  <text x="109" y="276" fill="#dce7f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">Sydney  |  Available full-time December 2026</text>
+  <text x="109" y="276" fill="#dce7f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">Sydney  |  Guarded AI  |  Backend Systems</text>
 
   <g opacity="0.92">
     <path d="M845 109 C895 109 905 70 955 70" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" />

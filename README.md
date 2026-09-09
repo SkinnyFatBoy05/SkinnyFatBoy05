@@ -10,7 +10,7 @@
 
 I build AI and software systems that make operational work more reliable, inspectable and safe. My work sits where backend engineering, applied AI, data and product delivery meet.
 
-I am completing a **Master of Computer Science (Advanced Entry)** at the University of Sydney in November 2026 and will be available full-time from December 2026.
+I am completing a **Master of Computer Science (Advanced Entry)** at the University of Sydney in November 2026.
 
 ## What I build
 
