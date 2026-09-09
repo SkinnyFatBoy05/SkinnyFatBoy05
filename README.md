@@ -22,25 +22,29 @@ I am completing a **Master of Computer Science (Advanced Entry)** at the Univers
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/SkinnyFatBoy05/opsgraph-copilot">OpsGraph Copilot</a></h3>
       <p>Production-style AI engineering platform for RAG, guarded read-only SQL, bounded LangGraph agents, evidence verification and human review.</p>
       <p><strong>Evidence:</strong> 114 backend tests, 9 frontend tests, 5 browser workflows and 40/40 deterministic evaluations of routing, tool safety and evidence integrity. This is not a live-model accuracy claim.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>LangGraph</code> <code>React</code> <code>PostgreSQL</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/SkinnyFatBoy05/gridbridge">GridBridge</a></h3>
       <p>Synthetic utility-data onboarding control plane for typed ingestion, reconciliation, data-quality gates and reviewable exceptions.</p>
       <p><code>Python</code> <code>Airflow</code> <code>dbt</code> <code>Data Engineering</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/SkinnyFatBoy05/fleetguard-ai">FleetGuard AI</a></h3>
       <p>Synthetic fleet-operations MVP combining governed KPIs, data-quality controls, ML and evidence-linked AI recommendations.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>DuckDB</code> <code>ML</code> <code>Power BI</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/SkinnyFatBoy05/gridshock-research-lab">GridShock Research Lab</a></h3>
       <p>Point-in-time-safe weather and day-ahead power-market research with chronological evaluation and cost-aware backtesting.</p>
       <p><strong>Evidence:</strong> 51.6% lower final-holdout MAE than the declared seasonal-naive comparator, within the repository's stated research limitations.</p>
@@ -48,12 +52,14 @@ I am completing a **Master of Computer Science (Advanced Entry)** at the Univers
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/SkinnyFatBoy05/angleflow">AngleFlow</a></h3>
       <p>Synthetic asset-finance workflow with explicit BPMN and DMN decisions, resilient workers, human review and auditable state.</p>
       <p><code>Camunda 8</code> <code>.NET</code> <code>C#</code> <code>React</code> <code>PostgreSQL</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/SkinnyFatBoy05/energy-operations-advisor">Energy Operations Advisor</a></h3>
       <p>Safety-first telemetry validation and explainable operating-window recommendations for human decision support.</p>
       <p><code>Python</code> <code>Data Validation</code> <code>Decision Support</code></p>
@@ -69,12 +75,10 @@ I am completing a **Master of Computer Science (Advanced Entry)** at the Univers
 
 ## Technical toolkit
 
-| Area | Tools |
-|---|---|
-| Languages | Python, TypeScript, JavaScript, SQL, C#, R |
-| Backend and data | FastAPI, PostgreSQL, REST APIs, Pydantic, Docker, data pipelines |
-| AI and ML | LangGraph, RAG, Transformer models, NLP, model evaluation, error analysis |
-| Product and cloud | React, AWS, GitHub Actions, stakeholder discovery, release delivery |
+- **Languages:** Python, TypeScript, JavaScript, SQL, C#, R
+- **Backend and data:** FastAPI, PostgreSQL, REST APIs, Pydantic, Docker, data pipelines
+- **AI and ML:** LangGraph, RAG, Transformer models, NLP, model evaluation, error analysis
+- **Product and cloud:** React, AWS, GitHub Actions, stakeholder discovery, release delivery
 
 ## Research and recognition
 
