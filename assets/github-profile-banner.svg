@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Kishore Srinivasan, AI Engineer and Software Engineer</title>
+  <desc id="description">A dark blue profile banner describing work in guarded AI systems, backend APIs and applied machine learning.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.55" stop-color="#0b1424" />
+      <stop offset="1" stop-color="#10172a" />
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#4f8cff" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#4f8cff" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#68a4ff" />
+      <stop offset="1" stop-color="#9d7bff" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#dbeafe" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#background)" />
+  <rect width="1200" height="320" rx="28" fill="url(#grid)" />
+  <ellipse cx="1030" cy="70" rx="230" ry="180" fill="url(#blueGlow)" filter="url(#softBlur)" />
+  <ellipse cx="880" cy="295" rx="240" ry="150" fill="url(#violetGlow)" filter="url(#softBlur)" />
+
+  <rect x="70" y="55" width="48" height="5" rx="2.5" fill="url(#accent)" />
+  <text x="70" y="124" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.8">Kishore Srinivasan</text>
+  <text x="73" y="169" fill="#8fb8ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="650" letter-spacing="3.2">AI ENGINEER  |  SOFTWARE ENGINEER</text>
+  <text x="72" y="215" fill="#cad5e5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="400">Guarded AI systems, reliable backend APIs and applied ML</text>
+
+  <rect x="70" y="248" width="365" height="42" rx="21" fill="#101d33" stroke="#5f8fe8" stroke-opacity="0.55" />
+  <circle cx="94" cy="269" r="5" fill="#71e6a7" />
+  <text x="109" y="276" fill="#dce7f7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">Sydney  |  Available full-time December 2026</text>
+
+  <g opacity="0.92">
+    <path d="M845 109 C895 109 905 70 955 70" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M845 109 C895 109 905 150 955 150" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M845 221 C895 221 905 150 955 150" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M1045 70 C1081 70 1081 128 1117 128" fill="none" stroke="#71e6a7" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M1045 150 C1081 150 1081 128 1117 128" fill="none" stroke="#71e6a7" stroke-opacity="0.8" stroke-width="2.5" stroke-linecap="round" />
+
+    <rect x="753" y="84" width="92" height="50" rx="15" fill="#111f36" stroke="#5f8fe8" />
+    <text x="799" y="115" text-anchor="middle" fill="#e6eefb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">INPUT</text>
+    <rect x="753" y="196" width="92" height="50" rx="15" fill="#111f36" stroke="#8069dd" />
+    <text x="799" y="227" text-anchor="middle" fill="#e6eefb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">POLICY</text>
+    <rect x="955" y="45" width="90" height="50" rx="15" fill="#111f36" stroke="#5f8fe8" />
+    <text x="1000" y="76" text-anchor="middle" fill="#e6eefb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">TOOLS</text>
+    <rect x="955" y="125" width="90" height="50" rx="15" fill="#111f36" stroke="#8069dd" />
+    <text x="1000" y="156" text-anchor="middle" fill="#e6eefb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">VERIFY</text>
+    <rect x="1117" y="103" width="58" height="50" rx="15" fill="#13283a" stroke="#71e6a7" />
+    <path d="M1135 128 L1145 138 L1160 118" fill="none" stroke="#71e6a7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="27.25" fill="none" stroke="#8fb8ff" stroke-opacity="0.18" stroke-width="1.5" />
+</svg>
