@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-profile-banner.svg" alt="Kishore Srinivasan, AI Engineer and Software Engineer" width="100%" />
+  <img src="assets/github-profile-banner-v2.svg" alt="Kishore Srinivasan, AI Engineer and Software Engineer" width="100%" />
 </p>
 
 <p align="center">
